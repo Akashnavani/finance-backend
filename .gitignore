@@ -1,0 +1,9 @@
+# Root gitignore to prevent committing node_modules, env files, and build outputs
+Backend/node_modules/
+Backend/.env
+Frontend/node_modules/
+Frontend/dist/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
